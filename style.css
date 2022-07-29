@@ -1,0 +1,74 @@
+.navigation{
+   color: black;
+   display:block;
+   float: right;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-weight: 400;
+   padding: 12px;
+   white-space: 20px ;
+   text-align: 70%;
+}
+
+body{
+   background-color: rgb(6, 108, 148);
+}
+.intro{
+   font-size: 30px;
+   color: black;
+}
+.name{
+   font-size: 80px;
+   color: black;
+}
+.work{
+   font-size: 70px;
+   color:salmon;
+}
+.dev{
+   font-size: 20px;
+   color: black;
+   text-align: left;
+  width: 600px;
+}
+p{
+   margin: 20px;
+  
+}
+a{
+   margin-right: 30px;
+}
+.body{
+   display: block;
+   color: white;
+  margin-top: 6em;
+   margin-left: 150px;
+   
+}
+ul{
+   list-style:none;
+}
+li{
+   margin: 20px;
+}
+img{
+   border-radius: 50%;
+}
+#logo{
+   margin-top: 30px;
+   margin-left: 30px;
+
+}
+.exp{
+   margin-left: 30px;
+   
+   margin-top: 100px;
+   
+}
+.t{
+   margin-left: 20%;
+   padding: 30px;
+   font-size: 40px;
+}
+footer{
+   text-align: center;
+}
